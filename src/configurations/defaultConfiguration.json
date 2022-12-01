@@ -1,0 +1,163 @@
+{
+  "defaultUnlockedChar": [
+    "ANTONIO",
+    "IMELDA",
+    "PASQUALINA",
+    "GENNARO"
+  ],
+  "defaultPurchasedChar": [
+    "ANTONIO"
+  ],
+  "defaultUnlockedWeapons": [
+    "WHIP",
+    "MAGIC_MISSILE",
+    "KNIFE",
+    "AXE",
+    "HOLYBOOK",
+    "HOLYWATER",
+    "LAUREL"
+  ],
+  "weaponUnlockedByCharacter": {
+    "MORTACCIO": "BONE",
+    "CAVALLO": "CHERRY",
+    "MARIA": "CART2",
+    "TATANKA": "FLOWER"
+  },
+  "achievementsForRelics": {
+    "RELIC_MAP": [
+      "FindMilkyWayMap"
+    ],
+    "RELIC_TEAR": [
+      "FindSorceressTears"
+    ],
+    "RELIC_RANDOMAZZO": [
+      "FindRandomazzo",
+      "FindRandomazzoT06"
+    ],
+    "RELIC_BANGER": [
+      "FindMagicBanger"
+    ],
+    "RELIC_GLASSMASK": [
+      "BuyGlassMask"
+    ],
+    "RELIC_YELLOW": [
+      "FindYellowSign"
+    ],
+    "RELIC_GOLDENEGG": [
+    ],
+    "RELIC_GRIMOIRE": [
+      "FindGrimoire"
+    ],
+    "RELIC_NOSEGLASSES": [
+
+    ],
+    "RELIC_GOUDA": [
+"FindGouda"
+    ],
+    "RELIC_GGOSPEL": [
+"FindGGospel"
+    ],
+    "RELIC_SECRETS": [
+"FindForbiddenScroll"
+    ],
+    "RELIC_TRUMPET": [
+
+    ],
+    "RELIC_MIRROR": [
+
+    ]
+  },
+  "defaultArcanas": [
+    "T06_SARABANDE"
+  ],
+  "arcanasConversion": {
+    "0": {
+      "arcana": "T00_KILLER",
+      "achivement": "DefeatBossChapel2"
+    },
+    "1": {
+      "arcana": "T01_AQUARIUS",
+      "achivement": "ReachLV99WithPugnala"
+    },
+    "2": {
+      "arcana": "T02_TWILIGHT",
+      "achivement": "ReachLV99WithDommario"
+    },
+    "3": {
+      "arcana": "T03_TRAGIC",
+      "achivement": "ReachLV99WithPorta"
+    },
+    "4": {
+      "arcana": "T04_AWAKE",
+      "achievement": "ReachLV99WithKroci"
+    },
+    "5": {
+      "arcana": "T05_CRASH",
+      "achievement": "ReachLV99WithGiovanna"
+    },
+    "6": {
+      "arcana": "T06_SARABANDE",
+      "achievement": "FindRandomazzoT06"
+    },
+    "7": {
+      "arcana": "T07_IRON_BLUE",
+      "achievement": "ReachLV99WithGennaro"
+    },
+    "8": {
+      "arcana": "T08_MAD_FOREST",
+      "achievement": "Survive31MinutesInForest"
+    },
+    "9": {
+      "arcana": "T09_DIVINE",
+      "achievement": "ReachLV99WithClerici"
+    },
+    "10": {
+      "arcana": "T10_BEGINNING",
+      "achievement": "ReachLV99WithAntonio"
+    },
+    "11": {
+      "arcana": "T11_PEARLS",
+      "achievement": "ReachLV99WithImelda"
+    },
+    "12": {
+      "arcana": "T12_OUT_OF_TIME",
+      "achievement": "Survive31MinutesInTower"
+    },
+    "13": {
+      "arcana": "T13_WICKED",
+      "achievement": "ReachLV99WithChristine"
+    },
+    "14": {
+      "arcana": "T14_JEWELS",
+      "achievement": "ReachLV99WithPasqualina"
+    },
+    "15": {
+      "arcana": "T15_GOLD",
+      "achievement": "Survive31MinutesInLibrary"
+    },
+    "16": {
+      "arcana": "T16_SLASH",
+      "achievement": "ReachLV99WithLama"
+    },
+    "17": {
+      "arcana": "T17_PAINTING",
+      "achievement": "ReachLV99WithPoppea"
+    },
+    "18": {
+      "arcana": "T18_ILLUSIONS",
+      "achievement": "ReachLV99WithConcetta"
+    },
+    "19": {
+      "arcana": "T19_FIRE",
+      "achievement": "ReachLV99WithArca"
+    },
+    "20": {
+      "arcana": "T20_SINKING",
+      "achievement": "Survive31MinutesInDairyPlant"
+    },
+    "21": {
+      "arcana": "T21_BLOODY",
+      "achievement": "ReachLV99WithPoe"
+    }
+  }
+}
